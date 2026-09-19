@@ -50,7 +50,7 @@ I enjoy translating **requirements and user flows into structured test cases**, 
 
 ## 💼 Experience
 
-### 🏢 Mid-Level Software Testing Engineer — Wakeb
+### 🏢 Mid-Level Software Testing Engineer — Wakeb_Data
 
 **Mar 2026 – Present**
 
