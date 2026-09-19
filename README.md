@@ -26,7 +26,7 @@
 
 I'm a **Mid-Level Software Testing Engineer** with experience in **manual and automated testing**, test design, defect management, API testing, and performance testing.
 
-Currently working at **Wakeb** within the **Quality & Testing** team, where I work on web applications, APIs, AI-powered projects, and complex business workflows.
+Currently working at **Wakeb_Data** within the **Quality & Testing** team, where I work on web applications, APIs, AI-powered projects, and complex business workflows.
 
 I enjoy translating **requirements and user flows into structured test cases**, identifying defects, validating fixes, and helping development teams deliver reliable and high-quality software.
 
